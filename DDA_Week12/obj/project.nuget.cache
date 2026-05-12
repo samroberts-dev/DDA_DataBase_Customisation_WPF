@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "w+iaBekRL9o=",
+  "dgSpecHash": "dPBGl1VbHlE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\20165449\\source\\repos\\DDA_Week12\\DDA_Week12\\DDA_Week12.csproj",
+  "projectFilePath": "C:\\Users\\20165449\\source\\repos\\DDA_DataBase_Customisation_WPF\\DDA_Week12\\DDA_Week12.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\20165449\\.nuget\\packages\\bouncycastle.cryptography\\2.6.2\\bouncycastle.cryptography.2.6.2.nupkg.sha512",
     "C:\\Users\\20165449\\.nuget\\packages\\google.protobuf\\3.32.0\\google.protobuf.3.32.0.nupkg.sha512",
